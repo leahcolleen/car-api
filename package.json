@@ -1,0 +1,19 @@
+{
+  "name": "car-api",
+  "version": "1.0.0",
+  "description": "mern stack api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leahcolleen/car-api.git"
+  },
+  "author": "Leah Pitter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leahcolleen/car-api/issues"
+  },
+  "homepage": "https://github.com/leahcolleen/car-api#readme"
+}
